@@ -1,0 +1,17 @@
+h1{
+    color:white
+}
+.header{
+    background-color: darkcyan;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap ;
+    justify-content: space-evenly;
+     
+
+}
+img{
+    width:100px;
+    height:100px
+}
